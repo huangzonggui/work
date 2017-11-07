@@ -1,0 +1,28 @@
+.one-px-right-lighter,
+.one-px-left-lighter,
+.one-px-bottom-lighter,
+.one-px-top-lighter{
+  position: relative;
+}
+
+.one-px-right-lighter {
+  &:after {
+    .setRightLine(#E4E4E4)
+  }
+}
+.one-px-left-lighter {
+  &:before {
+    .setLeftLine(#E4E4E4)
+  }
+}
+.one-px-bottom-lighter {
+  &:after {
+    .setBottomLine(#E4E4E4)
+  }
+}
+
+.one-px-top-lighter {
+  &:before {
+    .setTopLine(#E4E4E4)
+  }
+}

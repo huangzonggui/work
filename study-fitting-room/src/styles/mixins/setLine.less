@@ -1,0 +1,51 @@
+.setBottomLine(@c: #ccc) {
+  content: " ";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  right: 0;
+  border-bottom: 1px solid @c;
+  color: @c;
+  background: @c;
+}
+
+.setTopLine(@c: #ccc) {
+  content: " ";
+  position: absolute;
+  left: 0;
+  Top: 0;
+  width: 100%;
+  right: 0;
+  border-top: 1px solid @c;
+  color: @c;
+  background: @c;
+}
+
+.setRightLine(@c: #ccc) {
+  content: " ";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 1px;
+  bottom: 0;
+  border-right: 1px solid @c;
+  color: @c;
+  background: @c;
+  transform-origin: 100% 0;
+  transform: scaleX(0.5);
+}
+
+.setLeftLine(@c: #ccc) {
+  content: " ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1px;
+  bottom: 0;
+  border-left: 1px solid @c;
+  color: @c;
+  background: @c;
+  transform-origin: 0 0;
+  transform: scaleX(0.5);
+}

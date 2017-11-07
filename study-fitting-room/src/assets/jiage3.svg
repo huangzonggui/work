@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="22px" viewBox="0 0 12 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>jiage3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-578.000000, -33.000000)">
+            <g id="jiage3" transform="translate(578.000000, 33.000000)">
+                <g id="Group-3">
+                    <polygon id="Triangle-2" fill="#CCCCCC" points="6 0 12 8 0 8"></polygon>
+                    <polygon id="Triangle-2-Copy" fill="#F23030" transform="translate(6.000000, 18.000000) rotate(-180.000000) translate(-6.000000, -18.000000) " points="6 14 12 22 0 22"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

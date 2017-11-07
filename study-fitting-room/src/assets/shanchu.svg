@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="36px" viewBox="0 0 32 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>shanchu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="切图" transform="translate(-453.000000, -25.000000)" stroke="#9E9E9E" stroke-width="2">
+            <g id="shanchu" transform="translate(454.000000, 26.000000)">
+                <path d="M3,4 L27,4 L27,30.0007252 C27,32.2094637 25.2157067,34 23.009947,34 L6.99005301,34 C4.78640758,34 3,32.2132053 3,30.0007252 L3,4 Z" id="Rectangle-34"></path>
+                <path d="M11,10 L11,27.1818182" id="Path-111"></path>
+                <path d="M19,10 L19,27.1818182" id="Path-111-Copy"></path>
+                <path d="M19,4 C19,1.790861 17.209139,0 15,0 C12.790861,0 11,1.790861 11,4" id="Oval-34"></path>
+                <path d="M0,4 L30,4" id="Path-110"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="88px" viewBox="0 0 82 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>shouqi-01</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="8" cy="40" rx="8" ry="38"></ellipse>
+        <filter x="-75.0%" y="-13.2%" width="225.0%" height="126.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="复用图02" transform="translate(-668.000000, -124.000000)">
+            <g id="shouqi-01" transform="translate(676.000000, 128.000000)">
+                <g id="Oval-3" fill-opacity="1" fill="black">
+                    <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle-11" fill="#F9F9F9" x="2" y="0" width="72" height="80"></rect>
+                <polyline id="jinru" stroke="#9E9E9E" stroke-width="2" transform="translate(38.000000, 40.000000) scale(1, -1) rotate(90.000000) translate(-38.000000, -40.000000) " points="31 54 45 40 31 26"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

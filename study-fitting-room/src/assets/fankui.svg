@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>fankui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.8774713%" id="linearGradient-1">
+            <stop stop-color="#92C0FF" offset="0%"></stop>
+            <stop stop-color="#7278FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="75.5863536%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0F0FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19.3333333,28.6666667 L19.3333333,25.0769231 L32.9918561,11.4184003 C33.775217,10.6350395 35.0437672,10.6335108 35.8290181,11.4187617 L36.5812383,12.1709819 C37.3647987,12.9545423 37.3713585,14.2183851 36.5815997,15.0081439 L22.9230769,28.6666667 L19.3333333,28.6666667 Z" id="path-3"></path>
+        <filter x="-33.6%" y="-33.6%" width="167.3%" height="167.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.266666667   0 0 0 0 0.366044597   0 0 0 0 0.603921569  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M14.7611336,36.82861 L28.3643725,36.82861 L33.805668,36.82861 C34.9325972,36.82861 35.8461538,35.9150534 35.8461538,34.7881242 C35.8461538,33.661195 34.9325972,32.7476383 33.805668,32.7476383 L12.0404858,32.7476383 C10.9135566,32.7476383 10,31.8340817 10,30.7071525 C10,29.5802233 10.9135566,28.6666667 12.0404858,28.6666667 L15.4412955,28.6666667" id="path-5"></path>
+        <filter x="-27.1%" y="-85.8%" width="154.2%" height="271.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.266666667   0 0 0 0 0.353615196   0 0 0 0 0.603921569  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="微信在线试衣公众号版本29" transform="translate(-32.000000, -1139.000000)">
+            <g id="Group-3" transform="translate(0.000000, -157.000000)">
+                <g id="fankui" transform="translate(32.000000, 1296.000000)">
+                    <circle id="Oval-8-Copy-4" fill="url(#linearGradient-1)" cx="24" cy="24" r="24"></circle>
+                    <g id="Path-142">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Path" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use stroke="#FFFFFF" stroke-width="2" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

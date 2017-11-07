@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>shoucangfuzhuang copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.8774713%" id="linearGradient-1">
+            <stop stop-color="#FFCE92" offset="0%"></stop>
+            <stop stop-color="#FF7772" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="75.5863536%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFF0F3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M24.0000023,39 L23.6002202,38.7497417 C14.1055007,32.4424103 8.75848542,25.3342098 9.00838459,19.2771367 C9.10836546,16.2235885 10.6574505,13.7707453 13.3059718,12.2690537 C18.8529134,9.16541132 22.6008002,12.6695236 24.0000023,14.3714857 C25.3992044,12.6194295 29.1470912,9.11538798 34.6940328,12.2690537 L34.6940328,12.2690537 C37.3425541,13.7708161 38.8916391,16.2736827 38.99162,19.2771367 C39.2414485,25.3341389 33.8944686,32.4424103 24.3997844,38.7998004 L24.0000023,39 L24.0000023,39 Z" id="path-3"></path>
+        <filter x="-20.0%" y="-21.4%" width="140.0%" height="142.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.603921569   0 0 0 0 0.266666667   0 0 0 0 0.341176471  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="复用图11" transform="translate(-32.000000, -1066.000000)">
+            <g id="Group-3" transform="translate(0.000000, 888.000000)">
+                <g id="shoucangfuzhuang-copy" transform="translate(32.000000, 178.000000)">
+                    <circle id="Oval-8" fill="url(#linearGradient-1)" cx="24" cy="24" r="24"></circle>
+                    <g id="yishoucang" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

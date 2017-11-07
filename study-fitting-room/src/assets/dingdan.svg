@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>dingdan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#ADDF54" offset="0%"></stop>
+            <stop stop-color="#5FA841" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="75.5863536%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F0FFF4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.0921976,3.03067485 L16.1036183,3.03067485 C16.8003888,3.03067485 17.3865031,2.32847248 17.3865031,1.51533742 C17.3865031,0.702361523 16.7999152,0 16.0673118,0 L10.0925133,0 C9.35912055,0 8.77300626,0.702202371 8.77300626,1.51533742 C8.77269056,2.32847248 9.35896273,3.03067485 10.0921976,3.03067485 L10.0921976,3.03067485 Z" id="path-3"></path>
+        <filter x="-69.7%" y="-198.0%" width="239.3%" height="496.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.266666667   0 0 0 0 0.603921569   0 0 0 0 0.278981511  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M22.5387257,0.797546012 L20.8079299,0.797546012 C20.7822368,0.797546012 20.7562265,0.798501502 20.7302162,0.800253239 C20.7062677,2.77860514 18.6497087,4.37682939 16.1152896,4.37682939 L10.3168939,4.37682939 C7.78358493,4.37682939 5.72781894,2.77987915 5.70228442,0.802641977 C5.6794461,0.801049485 5.65882816,0.797546012 5.63456247,0.797546012 L3.46190867,0.797546012 C1.03121359,0.797546012 0,2.31375695 0,4.31058174 L0,24.0937823 C0,26.2390273 1.28893769,27.7546012 3.64572543,27.7546012 L22.3542745,27.7546012 C24.7107451,27.7546012 25.9999999,26.4973294 25.9999999,24.0937823 L25.9999999,4.31058174 C26.0003171,2.31359768 24.7851282,0.797545985 22.5387257,0.797546012 Z M19.518675,19.5451495 L6.51827856,19.5451495 C6.03994264,19.5451495 5.63472104,19.1385865 5.63472107,18.6578133 C5.63472107,18.177518 6.03978405,17.7704772 6.51827856,17.7704772 L19.48188,17.7704772 C19.9605331,17.7704772 20.3659133,18.1405722 20.4023911,18.6578133 C20.4023911,19.138268 19.9973282,19.5451495 19.518675,19.5451495 Z M19.518675,14.3316516 L6.51827856,14.3316516 C6.03994264,14.3316516 5.63472104,13.9249293 5.63472107,13.4443154 C5.63472107,12.9635423 6.03978405,12.55682 6.51827856,12.55682 L19.48188,12.55682 C19.9605331,12.55682 20.3659133,12.9264372 20.4023911,13.4443154 C20.4023911,13.9249293 19.9973282,14.3316516 19.518675,14.3316516 Z M19.518675,9.52439817 L6.51827856,9.52439817 C6.03994264,9.52439817 5.63472104,9.11783515 5.63472107,8.63706203 C5.63472109,8.15628892 6.04010124,7.74956665 6.51827856,7.74956665 L19.518675,7.74956665 C19.9973282,7.74956665 20.4023911,8.15628892 20.4023911,8.63706203 C20.4023911,9.1176759 19.9973282,9.52439817 19.518675,9.52439817 Z" id="path-5"></path>
+        <filter x="-23.1%" y="-22.3%" width="146.2%" height="144.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.266666667   0 0 0 0 0.603921569   0 0 0 0 0.278981511  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="微信公众号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="微信在线试衣公众号版本29" transform="translate(-32.000000, -942.000000)">
+            <g id="Group-3" transform="translate(0.000000, -157.000000)">
+                <g id="dingdan" transform="translate(32.000000, 1099.000000)">
+                    <circle id="Oval-8" fill="url(#linearGradient-1)" cx="24" cy="24" r="24"></circle>
+                    <g id="订单---选中" transform="translate(11.000000, 10.000000)" fill-rule="nonzero">
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
